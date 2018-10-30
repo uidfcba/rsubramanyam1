@@ -37,5 +37,5 @@ University of Illinois at Urbana-Champaign<br/>
 
 # Acknowledgements
 
-* I thank the Deloitte Foundation for their financial support in preparing this case
+* I thank the Deloitte Foundation Center for Business Analytics for their financial support in preparing this case
 
