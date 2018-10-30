@@ -29,15 +29,11 @@ CSegment_Moment.ipynb: The case document in markdown format with embedded code
 
 # Author Information
 
-Ram Subramanyam, Ph.D. 
-
-Associate Professor of Business Administration 
-
-William N. Scheffel Faculty Scholar, Gies College of Business
-
-R.C. Evans Data Analytics Fellow 
-
-University of Illinois at Urbana-Champaign
+Ram Subramanyam, Ph.D.<br/> 
+Associate Professor of Business Administration <br/>
+William N. Scheffel Faculty Scholar, Gies College of Business<br/>
+R.C. Evans Data Analytics Fellow <br/>
+University of Illinois at Urbana-Champaign<br/>
 
 # Acknowledgements
 
