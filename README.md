@@ -4,6 +4,16 @@ One of the important data analytics tasks that a marketing firm/specialists will
 
 Essentially, you are trying to understand who is buying your products and is there anything common among some subsets of your customers. If you find 2 or more subsets that differ from each other but seem to show some common behavior within their own groups, you are somewhat arriving at customer segments. By going through this case and the accompanying code, you will be taking a first pass at performing a customer segmentation task.
 
+## Key Learning Objectives
+
+1. Learn how to summarize numeric and categorical data
+2. Calculate Pearson bivariate correlations to understand variable relationships
+3. Perform data transformations to initiate unsupervised clustering
+4. Learn how to perform K-Means clustering in Python
+5. Understand how to interpret output of K-Means clustering
+6. Create simple visualizations to assess generated clusters
+7. Learn how to perform basic customer segmentation using a data-driven approach
+
 
 # MiddleOfEverywhere Resale Inc.
 
